@@ -18,7 +18,7 @@ export const LoginScreen = ({ history }) => {
   };
 
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 animate__animated animate__fadeIn">
       <h1>Login</h1>
       <hr />
 
